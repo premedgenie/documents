@@ -18,7 +18,7 @@ No personal data is used to target PreMed Genie’s ads.
 
 We use the information we collect to operate and improve our website, apps, and customer support.
 
-We do not share personal information with outside parties except to the extent necessary to accomplish PreMed Genie’s functionality. We may share anonymous, aggregate statistics with outside parties, such as how many people listen to a particular podcast with PreMed Genie.
+We do not share personal information with outside parties except to the extent necessary to accomplish PreMed Genie’s functionality. We may share anonymous, aggregate statistics with outside parties, such as how many people downloaded PreMed Genie.
 
 We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.
 
