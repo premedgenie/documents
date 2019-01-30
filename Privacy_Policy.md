@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This policy applies to all information collected or submitted on the PreMed Genie's app for iPhone and any other devices and platforms.
+This policy applies to all information collected or submitted on the PreMed Genie app for iPhone and any other devices and platforms.
 
 # Technical basics
 
