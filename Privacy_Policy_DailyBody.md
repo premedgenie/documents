@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This policy applies to all information collected or submitted on the Daily Body app for iPhone and any other devices and platforms.
+This policy applies to all information collected or submitted on the Medical Daily app for iPhone and any other devices and platforms.
 
 # Technical basics
 
@@ -12,15 +12,15 @@ We push text strings to other applications if you choose to share them. We may s
 
 # Ads and analytics
 
-The Daily Body app collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
+The Medical Daily app collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
 
-No personal data is used to target Daily Body’s ads.
+No personal data is used to target Medical Daily’s ads.
 
 # Information usage
 
 We use the information we collect to operate and improve our website, apps, and customer support.
 
-We do not share personal information with outside parties except to the extent necessary to accomplish Daily Body’s functionality. We may share anonymous, aggregate statistics with outside parties, such as how many people download Daily Body.
+We do not share personal information with outside parties except to the extent necessary to accomplish Medical Daily’s functionality. We may share anonymous, aggregate statistics with outside parties, such as how many people download Medical Daily.
 
 We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.
 
@@ -36,7 +36,7 @@ We never collect or maintain information at our website from those we actually k
 
 # Information for European Union Customers
 
-By using Daily Body and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
+By using Medical Daily and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
 
 # International Transfers of Information
 
@@ -48,7 +48,7 @@ By using our site or apps, you consent to our privacy policy.
 
 # Contacting Us
 
-If you have questions regarding this privacy policy, you may email premedgenie@gmail.com . Please note that any personal changes should be done within the Daily Body app, not via email requests, for security reasons.
+If you have questions regarding this privacy policy, you may email premedgenie@gmail.com . Please note that any personal changes should be done within the Medical Daily app, not via email requests, for security reasons.
 
 # Changes to this policy
 
